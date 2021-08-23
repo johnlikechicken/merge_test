@@ -1,5 +1,6 @@
-age = "27"
-name = "태호"
 
+def add(a,b):
+    return a+b
 
-
+def show():
+    print("hi")
