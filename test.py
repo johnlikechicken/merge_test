@@ -1,10 +1,4 @@
 
 
-import datetime
 
-
-print(datetime.datetime.now)
-f
-g
-fdsfs
-fdfd
+print("이건 원셀꺼")
